@@ -721,5 +721,5 @@ MOV AL, [BX+20]
 
 ---
 
-**Argomento precedente:** [Modalità di Indirizzamento](modulo1_03_modalita_indirizzamento.md)  
-**Torna all'indice:** [README - Corso Assembly 8086](README.md)
+**Argomento precedente:** [Modalità di Indirizzamento](03_modalita_indirizzamento.md)  
+**Torna all'indice:** [README - Corso Assembly 8086](../README.md)

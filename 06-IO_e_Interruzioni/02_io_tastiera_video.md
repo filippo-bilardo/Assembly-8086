@@ -882,4 +882,4 @@ restore_video_state:
 
 ---
 
-**Prossimo argomento:** [File I/O con DOS](modulo6_03_file_io.md)
+**Prossimo argomento:** [File I/O con DOS](03_file_io.md)

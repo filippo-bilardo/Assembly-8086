@@ -866,4 +866,4 @@ ADD AX, CX          ; AX × 8 + AX × 2 = AX × 10
 
 ---
 
-**Prossimo argomento:** [Istruzioni Logiche](modulo3_03_istruzioni_logiche.md)
+**Prossimo argomento:** [Istruzioni Logiche](03_istruzioni_logiche.md)

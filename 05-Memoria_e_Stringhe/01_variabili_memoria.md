@@ -704,4 +704,4 @@ non_maggiore:
 
 ---
 
-**Prossimo argomento:** [Istruzioni per Stringhe](modulo5_02_istruzioni_stringhe.md)
+**Prossimo argomento:** [Istruzioni per Stringhe](02_istruzioni_stringhe.md)

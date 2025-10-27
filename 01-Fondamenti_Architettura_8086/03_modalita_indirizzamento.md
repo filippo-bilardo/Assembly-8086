@@ -564,5 +564,5 @@ LEA BX, [SI+DI+10]      ; BX = SI + DI + 10
 
 ---
 
-**Argomento precedente:** [Registri dell'8086](modulo1_02_registri_8086.md)  
-**Prossimo argomento:** [Domande di Autovalutazione - Modulo 1](modulo1_04_quiz.md)
+**Argomento precedente:** [Registri dell'8086](02_registri_8086.md)  
+**Prossimo argomento:** [Domande di Autovalutazione - Modulo 1](04_quiz.md)

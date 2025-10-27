@@ -733,4 +733,4 @@ unsafe_copy ENDP
 
 ---
 
-**Modulo completato!** Procedi al [Modulo 6](../modulo6_01_intro.md)
+**Modulo completato!** Procedi al [Modulo 6](../06-IO_e_Interruzioni/01_interruzioni.md)

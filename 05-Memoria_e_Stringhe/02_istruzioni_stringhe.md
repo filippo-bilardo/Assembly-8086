@@ -822,4 +822,4 @@ replace_char ENDP
 
 ---
 
-**Prossimo argomento:** [Manipolazione Stringhe Avanzata](modulo5_03_manipolazione_stringhe.md)
+**Prossimo argomento:** [Manipolazione Stringhe Avanzata](03_manipolazione_stringhe.md)

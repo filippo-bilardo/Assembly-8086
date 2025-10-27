@@ -979,4 +979,4 @@ word_count ENDP
 
 ---
 
-**Prossimo argomento:** [Gestione Buffer e Performance](modulo5_04_buffer_performance.md)
+**Prossimo argomento:** [Gestione Buffer e Performance](04_buffer_performance.md)

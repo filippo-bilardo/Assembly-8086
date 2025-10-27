@@ -1143,5 +1143,5 @@ MOV DX, messagio        ; ✗ Typo! (messagio vs messaggio)
 
 ---
 
-**Argomento precedente:** [Processo di Assemblaggio e Linking](modulo2_04_assemblaggio_linking.md)  
-**Torna all'indice:** [README - Corso Assembly 8086](README.md)
+**Argomento precedente:** [Processo di Assemblaggio e Linking](04_assemblaggio_linking.md)  
+**Torna all'indice:** [README - Corso Assembly 8086](../README.md)

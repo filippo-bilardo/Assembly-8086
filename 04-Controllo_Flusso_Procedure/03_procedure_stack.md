@@ -846,4 +846,4 @@ pow ENDP
 
 ---
 
-**Prossimo argomento:** [Quiz Modulo 4](modulo4_04_quiz.md)
+**Prossimo argomento:** [Ricorsione](04_ricorsione.md)

@@ -678,4 +678,4 @@ END main
 
 ---
 
-**Prossimo argomento:** [Input/Output Tastiera e Video](modulo6_02_io_tastiera_video.md)
+**Prossimo argomento:** [Input/Output Tastiera e Video](02_io_tastiera_video.md)

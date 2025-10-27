@@ -500,5 +500,5 @@ MOV AL, 56h     ; AX = 1256h (solo AL cambiato)
 
 ---
 
-**Argomento precedente:** [Introduzione all'Architettura 8086](modulo1_01_introduzione_architettura_8086.md)  
-**Prossimo argomento:** [Modalità di Indirizzamento](modulo1_03_modalita_indirizzamento.md)
+**Argomento precedente:** [Introduzione all'Architettura 8086](01_introduzione_architettura_8086.md)  
+**Prossimo argomento:** [Modalità di Indirizzamento](03_modalita_indirizzamento.md)

@@ -683,5 +683,5 @@ END main
 
 ---
 
-**Argomento precedente:** [Ambiente di Sviluppo](modulo2_01_ambiente_sviluppo.md)  
-**Prossimo argomento:** [Direttive dell'Assembler](modulo2_03_direttive_assembler.md)
+**Argomento precedente:** [Ambiente di Sviluppo](01_ambiente_sviluppo.md)  
+**Prossimo argomento:** [Direttive dell'Assembler](03_direttive_assembler.md)

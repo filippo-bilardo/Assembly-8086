@@ -987,4 +987,4 @@ salva_risultato:
 
 ---
 
-**Prossimo argomento:** [Procedure e Stack](modulo4_03_procedure_stack.md)
+**Prossimo argomento:** [Procedure e Stack](03_procedure_stack.md)

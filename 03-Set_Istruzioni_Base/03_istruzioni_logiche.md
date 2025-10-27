@@ -800,4 +800,4 @@ non_set:
 
 ---
 
-**Prossimo argomento:** [Istruzioni di Shift e Rotate](modulo3_04_istruzioni_shift_rotate.md)
+**Prossimo argomento:** [Istruzioni di Shift e Rotate](04_istruzioni_shift_rotate.md)

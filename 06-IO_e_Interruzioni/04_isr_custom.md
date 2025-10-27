@@ -840,4 +840,4 @@ debug_beep ENDP
 
 ---
 
-**Prossimo argomento:** [Quiz Modulo 6](modulo6_05_quiz.md)
+**Prossimo argomento:** [Quiz Modulo 6](05_quiz.md)

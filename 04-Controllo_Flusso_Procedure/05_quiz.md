@@ -606,4 +606,4 @@ fib(30) → ~2.000.000 chiamate ricorsive
 
 ---
 
-**Modulo completato!** Procedi al [Modulo 5](../modulo5_01_intro.md)
+**Modulo completato!** Procedi al [Modulo 5](../05-Memoria_e_Stringhe/01_variabili_memoria.md)

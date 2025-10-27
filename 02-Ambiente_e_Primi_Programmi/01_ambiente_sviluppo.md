@@ -620,5 +620,5 @@ Prima di iniziare a programmare, verifica:
 
 ---
 
-**Torna all'indice:** [README - Corso Assembly 8086](README.md)  
-**Prossimo argomento:** [Primo Programma: Hello World](modulo2_02_hello_world.md)
+**Torna all'indice:** [README - Corso Assembly 8086](../README.md)  
+**Prossimo argomento:** [Primo Programma: Hello World](02_hello_world.md)

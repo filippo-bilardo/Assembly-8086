@@ -721,4 +721,4 @@ LEA AX, [BX+BX*2+SI+20]     ; BX + BX×2 = BX×3, poi +SI+20
 
 ---
 
-**Prossimo argomento:** [Istruzioni Aritmetiche](modulo3_02_istruzioni_aritmetiche.md)
+**Prossimo argomento:** [Istruzioni Aritmetiche](02_istruzioni_aritmetiche.md)

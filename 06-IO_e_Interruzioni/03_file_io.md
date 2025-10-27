@@ -826,4 +826,4 @@ error_handler:
 
 ---
 
-**Prossimo argomento:** [Interrupt Service Routines Personalizzate](modulo6_04_isr_custom.md)
+**Prossimo argomento:** [Interrupt Service Routines Personalizzate](04_isr_custom.md)

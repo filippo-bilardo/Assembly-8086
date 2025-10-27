@@ -810,4 +810,4 @@ rle_compress ENDP
 
 ---
 
-**Prossimo argomento:** [Quiz Modulo 5](modulo5_05_quiz.md)
+**Prossimo argomento:** [Quiz Modulo 5](05_quiz.md)

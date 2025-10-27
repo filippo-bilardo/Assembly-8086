@@ -837,5 +837,5 @@ main ENDP
 
 ---
 
-**Argomento precedente:** [Primo Programma: Hello World](modulo2_02_hello_world.md)  
-**Prossimo argomento:** [Processo di Assemblaggio e Linking](modulo2_04_assemblaggio_linking.md)
+**Argomento precedente:** [Primo Programma: Hello World](02_hello_world.md)  
+**Prossimo argomento:** [Processo di Assemblaggio e Linking](04_assemblaggio_linking.md)

@@ -733,5 +733,5 @@ program.exe: $(OBJS)
 
 ---
 
-**Argomento precedente:** [Direttive dell'Assembler](modulo2_03_direttive_assembler.md)  
-**Prossimo argomento:** [Domande di Autovalutazione - Modulo 2](modulo2_05_quiz.md)
+**Argomento precedente:** [Direttive dell'Assembler](03_direttive_assembler.md)  
+**Prossimo argomento:** [Domande di Autovalutazione - Modulo 2](05_quiz.md)

@@ -278,4 +278,4 @@ Comprendere questi concetti è essenziale prima di procedere con la programmazio
 
 ---
 
-**Prossimo argomento:** [Registri dell'8086](modulo1_02_registri_8086.md)
+**Prossimo argomento:** [Registri dell'8086](02_registri_8086.md)
