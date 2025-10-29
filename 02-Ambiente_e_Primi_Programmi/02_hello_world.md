@@ -664,11 +664,11 @@ countdown:
     MOV AH, 02h     ; Stampa carattere
     INT 21h
     
-    MOV AH, 02h     ; Stampa spazio
-    PUSH DX
+    PUSH DX         ; Salva DL sullo stack
     MOV DL, ' '
+    MOV AH, 02h     ; Stampa spazio
     INT 21h
-    POP DX
+    POP DX          ; Recupera DL
     
     DEC DL          ; Decrementa carattere
     LOOP countdown
